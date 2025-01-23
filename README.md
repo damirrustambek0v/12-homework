@@ -4,7 +4,7 @@ An e-commerce platform for products and services, built with modern web technolo
 
 ## Author
 **damirrustambek0v**
-- GitHub: [Samandar Nayimjonov](https://github.com/damirrustambek0v)
+- GitHub: [damirrustambek0v](https://github.com/damirrustambek0v)
 
 ## Overview
 
